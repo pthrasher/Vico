@@ -7,7 +7,7 @@ of the [hip](http://www.sojones.com/wordpress/wp-content/uploads/2009/08/hip-kid
 This is why you should immediately stop what you're doing, fork the
 shit out of this repo, and start using vico.
   
-You can haz that shit here: [http://www.vicoapp.com/]
+You can haz that shit here: (http://www.vicoapp.com/)
   
 Like vim, you can script it. Scripting is done with
 [nu](http://programming.nu/about)
