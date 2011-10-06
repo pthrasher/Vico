@@ -11,7 +11,7 @@
 ; text hard-wrapping ftw
 (global NSMaxRange (do (range) (+ (range first) (range second))))
 (global NSBackwardsSearch 4)
-(set $textwidth 72) ; set to zero to disable
+(set $textwidth 79) ; set to zero to disable
 (if (defined $autoTextWrapEventId)
   (eventManager remove:$autoTextWrapEventId))
 (set $autoTextWrapEventId (eventManager on:"didModifyDocument" do:(do (doc range delta)
