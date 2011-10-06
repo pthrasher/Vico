@@ -8,7 +8,8 @@
 ; ugh... fucking semicolon
 ((ViMap normalMap) map:";" to:":")
 
-; text hard-wrapping ftw
+; Text hard-wrapping ftw -- although has a couple of edge case bugs... which
+; I'll be reworking.
 (global NSMaxRange (do (range) (+ (range first) (range second))))
 (global NSBackwardsSearch 4)
 (set $textwidth 79) ; set to zero to disable
