@@ -1,7 +1,7 @@
 Huh?
 ====
 
-So, you see... I dropkicked MacVim to the preveribal curb. I'm now one
+So, you see... I dropkicked MacVim to the proveribal curb. I'm now one
 of the [hip][hipkid] kids using [vico](http://www.vicoapp.com/). It's the bees knees, peoples.
   
 This is why you should immediately stop what you're doing, fork the
